@@ -1,47 +1,59 @@
-# Hey there, I'm Ahmed Khan 👋
+<h1 align="center">Hi 👋, I'm Ahmed Khan</h1>
+<h3 align="center">MERN Stack Developer | Firebase & Supabase Enthusiast</h3>
 
-Welcome to my GitHub profile!  
-I'm a passionate **MERN Stack Developer** with hands-on experience in **Firebase**, **Supabase**, and a love for writing clean and efficient code.  
-I also work with **JavaScript** and **Python**, and I’m always excited to learn new technologies.
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on full-stack web applications using the MERN stack
-- 🌱 Exploring backend services like Firebase and Supabase
-- 💻 Skilled in Git, GitHub for version control and collaboration
-- 👯 Open to collaboration on interesting projects
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmedkhan78) | [Email](mailto:your-email@example.com)
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/84821934?v=4" width="150" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🧑‍💻 About Me
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&style=flat-square) 
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&style=flat-square)
-![React](https://img.shields.io/badge/-React-blue?logo=react&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?logo=mongodb&style=flat-square)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-orange?logo=firebase&style=flat-square)
-![Supabase](https://img.shields.io/badge/-Supabase-03B53A?logo=supabase&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-red?logo=git&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-gray?logo=github&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&style=flat-square)
+- 🔭 I’m currently working on **full-stack MERN applications**
+- 🌱 Exploring **Firebase**, **Supabase**, and scalable backends
+- 💬 Ask me about **React, Node.js, MongoDB, Firebase, Git**
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/ahmedkhan78) | [Email](mailto:your-email@example.com)
 
 ---
 
-## 📈 GitHub Stats
+### 🛠️ Tech Stack
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedkhan78&show_icons=true&theme=radical)
+| Frontend       | Backend        | Database      | Dev Tools         |
+|----------------|----------------|---------------|-------------------|
+| React          | Node.js        | MongoDB       | Git, GitHub       |
+| JavaScript     | Express.js     | Supabase      | VSCode            |
+| HTML, CSS      | Firebase       |               | Postman           |
+
+> Bonus: Also familiar with Python 🐍
 
 ---
 
-## 📫 Let's Connect!
+### 📦 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ahmedkhan78)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/ahmedkhan78)
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🛒 **E-Commerce App** | Full MERN stack store with cart & checkout | React, Node.js, MongoDB |
+| 🧾 **ToDo App with Firebase** | Real-time task tracker with auth | React, Firebase |
+| 📈 **GitHub Stats Viewer** | Visualizes GitHub profiles | JavaScript, GitHub API |
 
 ---
 
-*Thanks for stopping by! 🙌*
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedkhan78&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedkhan78&layout=compact&theme=tokyonight" width="45%" />
+</p>
+
+---
+
+### 📫 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmedkhan78"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+</p>
+
+---
+
+<p align="center">Thanks for visiting! 🚀</p>
