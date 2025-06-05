@@ -49,7 +49,7 @@
 
 ### 📫 Let’s Connect
 
-<p align="center gap-2">
+<p align="center">
   <a href="https://www.linkedin.com/in/∆hwəd-khan-ʣʞɱ"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:a499hasan02@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
 </p>
