@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Khan</h1>
-<h3 align="center">MERN Stack Developer | Firebase & Supabase Enthusiast</h3>
+<h3 align="center">SOFTWARE Engineer AND Full stack developer</h3>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/84821934?v=4" width="150" />
