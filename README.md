@@ -1,59 +1,222 @@
 <h1 align="center">Hi 👋, I'm Ahmed Khan</h1>
-<h3 align="center">SOFTWARE Engineer AND Full Stack Developer</h3>
+
+<h3 align="center">
+  Software Engineer · Full-Stack Developer · Builder
+</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/84821934?v=4" width="150" />
+  <a href="https://github.com/Ahmedkhan78">
+    <img src="https://komarev.com/ghpvc/?username=Ahmedkhan78&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/109160297?v=4&size=150" width="150" alt="Ahmed Khan" />
+</p>
+
+<p align="center">
+  <strong>Building scalable web applications, developer tools, and practical software solutions.</strong>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **full-stack MERN applications**
-- 🌱 Exploring **Firebase**, **Supabase**, and scalable backends
-- 💬 Ask me about **React, Node.js, MongoDB, Firebase, Git**
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/ahmedkhan78) | [Email](mailto:your-email@example.com)
+I'm a **Software Engineer and Full-Stack Developer** passionate about building modern, scalable, secure, and maintainable software.
 
----
-
-### 🛠️ Tech Stack
-
-| Frontend       | Backend        | Database      | Dev Tools         |
-|----------------|----------------|---------------|-------------------|
-| React          | Node.js        | MongoDB       | Git, GitHub       |
-| JavaScript     | Express.js     | Supabase      | VSCode            |
-| HTML, CSS      | Firebase       |               | Postman           |
-
-> Bonus: Also familiar with Python 🐍
+* 🚀 Building full-stack applications with the **MERN ecosystem**
+* ⚛️ Working with **React, JavaScript, Node.js, Express.js, and MongoDB**
+* 🔥 Exploring **Firebase, Supabase, and modern backend architectures**
+* 🛠️ Building developer tools, APIs, automation workflows, and desktop applications
+* 🐍 Experienced with **Python** and Python-based development
+* 🔐 Interested in application security and secure software design
+* 🤖 Exploring **AI-assisted development and developer productivity tools**
+* 💡 Focused on turning ideas into reliable, production-ready software
+* 📚 Continuously learning and improving engineering practices
 
 ---
 
-### 📦 Featured Projects
+## 🧰 Tech Stack
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🛒 **E-Commerce App** | Full MERN stack store with cart & checkout | React, Node.js, MongoDB |
-| 🧾 **ToDo App with Firebase** | Real-time task tracker with auth | React, Firebase |
-| 📈 **GitHub Stats Viewer** | Visualizes GitHub profiles | JavaScript, GitHub API |
+### 🎨 Frontend
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" alt="Frontend Technologies" />
+</p>
 
-### 📊 GitHub Stats
+### ⚙️ Backend & APIs
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedkhan78&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedkhan78&layout=compact&theme=tokyonight" width="45%" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" alt="Backend Technologies" />
+</p>
+
+### 🗄️ Databases & Backend Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase" alt="Database Technologies" />
+</p>
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python" alt="Programming Languages" />
+</p>
+
+### 🛠️ Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development Tools" />
 </p>
 
 ---
 
-### 📫 Let’s Connect
+## 🚀 Featured Projects
+
+### 🤖 AI Code Copy
+
+**AI-ready developer context generation tool for Windows.**
+
+A desktop developer tool designed to help developers scan, secure, organize, prioritize, chunk, and copy project code into structured context for AI coding assistants.
+
+**Highlights:**
+
+* 🔎 Smart recursive project scanning
+* 🔐 Sensitive file protection & secret detection
+* 🧩 Local dependency analysis
+* 🎯 Intelligent file prioritization
+* 🧮 Token estimation & model-aware chunking
+* 🤖 AI prompt integration
+* 📦 Multi-file context generation
+* ✂️ Smart project chunking
+* 💾 Markdown, TXT & JSON export
+* 🕘 Copy history
+* 🖱️ Drag & drop project loading
+* 🖥️ Windows installer
+
+**Tech:** Python · PySide/PyQt · PyInstaller · Windows
+
+---
+
+### 🛒 E-Commerce Application
+
+A full-stack e-commerce platform featuring product management, authentication, shopping cart functionality, and checkout workflows.
+
+**Tech:** React · Node.js · Express.js · MongoDB
+
+---
+
+### 🔥 Firebase Task Manager
+
+A real-time task management application with authentication and cloud-based data synchronization.
+
+**Tech:** React · Firebase
+
+---
+
+### 📊 GitHub Stats Viewer
+
+A web application that uses the GitHub API to retrieve and visualize GitHub profile information.
+
+**Tech:** JavaScript · GitHub API · HTML · CSS
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/∆hwəd-khan-ʣʞɱ"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:a499hasan02@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ahmedkhan78&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Ahmed Khan's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedkhan78&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Ahmed Khan's Top Languages"
+  />
 </p>
 
 ---
 
-<p align="center">Thanks for visiting! 🚀</p>
+## 🎯 Current Focus
+
+```text
+Full-Stack Engineering
+        ↓
+Scalable Backend Architecture
+        ↓
+Developer Tools & Automation
+        ↓
+AI-Assisted Development
+        ↓
+Production-Ready Software
+```
+
+Currently focused on improving my knowledge and experience in:
+
+* ⚡ Scalable backend systems
+* 🔐 Application security
+* 🧩 Software architecture
+* 🤖 AI-powered developer tools
+* ☁️ Cloud & backend services
+* 🧪 Testing and code quality
+* 🚀 Production deployment and optimization
+
+---
+
+## 🧠 Engineering Interests
+
+```text
+Web Development        ████████████████████
+Backend Engineering    ██████████████████░░
+Developer Tools        █████████████████░░░
+AI Engineering         ████████████████░░░░
+Cloud & Infrastructure ███████████████░░░░░
+```
+
+> I believe good software is not only about making things work — it's about making them **maintainable, secure, scalable, and easy to understand.**
+
+---
+
+## 💡 Development Philosophy
+
+```text
+Understand the Problem
+        ↓
+Design the Solution
+        ↓
+Build with Clean Architecture
+        ↓
+Secure the Implementation
+        ↓
+Test & Iterate
+        ↓
+Ship 🚀
+```
+
+I value **clean code, practical architecture, security, developer experience, and continuous improvement**.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/Ahmedkhan78">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmedkhan78">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:a499hasan02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building things. Learning continuously. Shipping software. 🚀</i>
+</p>
