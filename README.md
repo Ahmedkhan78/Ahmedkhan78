@@ -116,21 +116,16 @@ A web application that uses the GitHub API to retrieve and visualize GitHub prof
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ahmedkhan78&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Ahmed Khan's GitHub Stats"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedkhan78&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-    alt="Ahmed Khan's Top Languages"
-  />
-</p>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedkhan78&theme=tokyonight&hide_border=true"
+  width="70%"
+/>
+
+
+</div>
 
 ---
 
