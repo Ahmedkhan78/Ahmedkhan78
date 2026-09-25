@@ -40,33 +40,26 @@ I'm a **Software Engineer and Full-Stack Developer** passionate about building m
 
 ### 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" alt="Frontend Technologies" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,angular,vue,threejs,astro,bootstrap,redux,webpack" alt="Frontend Technologies" /> </p>
+
 
 ### ⚙️ Backend & APIs
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" alt="Backend Technologies" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,npm,yarn,pnpm,firebase,spring,nestjs,fastapi,flask,selenium" alt="Backend Technologies" /> </p>
 
 ### 🗄️ Databases & Backend Services
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,supabase" alt="Database Technologies" />
-</p>
+<p> <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase,sqlite,prisma,postgres" alt="Database Technologies" /> </p>
 
 ### 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python" alt="Programming Languages" />
-</p>
+
+<p> <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,kotlin" alt="Programming Languages" /> </p>
 
 ### 🛠️ Tools & Workflow
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development Tools" />
-</p>
+
+<p> <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,pycharm,eclipse,androidstudio,vercel,cloudflare,docker,openstack" alt="Development Tools" /> </p>
 
 ---
 
